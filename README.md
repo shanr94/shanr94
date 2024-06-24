@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @shanr94
-- 👀 I’m interested in develping apps for Salesforce
-- 🌱 I’m currently learning Salesforce
+I'm diving into the world of frontend web development, 
+focusing on HTML, CSS, and JavaScript to craft interactive and visually appealing web experiences. 
 
-<!---
-shanr94/shanr94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here, you'll find my projects where I experiment, learn, and apply new techniques.
+
+Feel free to explore, provide feedback, or collaborate on any of my repositories. 
+
+Let's learn and grow together in this exciting journey of web development!
+
+Happy coding! <></>
